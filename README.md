@@ -1,0 +1,1 @@
+This project allows you to generate nutritional meals based on your personal metrics like height and weight as well as your fitness goals. To use it simply run the code and answer the questions in the terminal.
